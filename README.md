@@ -1,4 +1,4 @@
-React Portfolio 
+# React Portfolio 
 
 This is a react Portfolio feauturing the following sections:
 # About 
